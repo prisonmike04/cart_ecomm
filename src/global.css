@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-open-sans: "Open Sans";
+  --font-nunito: Nunito;
+  --font-raleway: Raleway;
+
+  /* font sizes */
+  --font-size-lg-2: 18.2px;
+  --font-size-base-9: 15.9px;
+  --font-size-sm-7: 13.7px;
+  --font-size-6xl: 25px;
+  --font-size-xl-5: 20.5px;
+
+  /* Colors */
+  --color-gray-100: #fefcfc;
+  --color-gray-200: #1e1e1e;
+  --color-white: #fff;
+  --color-slateblue-100: #6268c6;
+  --color-silver: #c4c4c4;
+  --color-darkslategray: #393939;
+
+  /* Gaps */
+  --gap-65xl: 84px;
+  --gap-8xl: 27px;
+
+  /* Paddings */
+  --padding-xl-5: 20.5px;
+
+  /* Border radiuses */
+  --br-mid-1: 17.1px;
+  --br-6xs-8: 6.8px;
+  --br-7xs-7: 5.7px;
+  --br-3xs-1: 9.1px;
+}
